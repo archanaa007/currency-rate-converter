@@ -1,7 +1,7 @@
 package pl.cleankod.exchange.core.domain
 
 
-import pl.cleankod.exchange.core.domain.Money
+import pl.cleankod.model.Money
 import spock.lang.Specification
 
 class MoneySpecification extends Specification {

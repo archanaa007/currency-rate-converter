@@ -1,6 +1,6 @@
 package pl.cleankod.exchange.core.domain
 
-import pl.cleankod.exchange.core.domain.Account
+import pl.cleankod.model.Account
 import spock.lang.Specification
 
 class AccountNumberSpecification extends Specification {
